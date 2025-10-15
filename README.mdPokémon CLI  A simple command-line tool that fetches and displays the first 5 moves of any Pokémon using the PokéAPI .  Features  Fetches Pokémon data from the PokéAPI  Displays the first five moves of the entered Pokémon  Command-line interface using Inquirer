@@ -1,0 +1,12 @@
+Pokemon CLI
+
+A simple command-line tool that fetches and displays the first 5 moves of any Pokémon using the PokeAPI
+.
+
+Features
+
+Fetches Pokémon data from the PokeAPI
+
+Displays the first five moves of the entered Pokemon
+
+Command-line interface using Inquirer
